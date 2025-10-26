@@ -27,8 +27,8 @@ I am a **Web Developer** with experience in **Javascript**. I enjoy learning new
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**(www.linkedin.com/in/oscarlyn-ghartey)
-- **[Twitter]**(https://x.com/OGhartey82210)
+- **[LinkedIn](www.linkedin.com/in/oscarlyn-ghartey)**
+- **[Twitter](https://x.com/OGhartey82210)**
 
 
 
